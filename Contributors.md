@@ -1,5 +1,6 @@
 # Contributors
 ### Paul Quito
+-[Jonny](https://github.com/Jonny110794)**First contribution**
 -[Arham Begani](https://github.com/Arham-Begani)**Hi!, first Contribution Here**
 -[Tirth Patel](https://github.com/TirthWillLearn)**Hi!, First Contribution Here👋**
 - [Eddie Vartanessian](https://github.com/EddieV2)**Hello from Boston! :shamrock:**
